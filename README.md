@@ -1,9 +1,20 @@
 # KwaMnquhe
 
 The public site for a grocery shop in Durban that started from a single shipping container, with
-the long-term goal of supplying other shops. [kwamquhe.co.za](https://kwamquhe.co.za).
+the long-term goal of supplying other shops.
 
-![screenshot](docs/screenshot.jpg)
+![KwaMnquhe storefront](docs/01-hero.jpg)
+
+<table>
+<tr>
+<td width="50%"><img src="docs/02-mnquhe-card.jpg" alt="The Mnquhe Card page"><br><sub>The Mnquhe Card</sub></td>
+<td width="50%"><img src="docs/03-my-card.jpg" alt="A member's card and balance"><br><sub>My card — balance, QR, loads</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="docs/04-member-prices.jpg" alt="Member prices"><br><sub>Member prices — normal price, then the card price</sub></td>
+<td width="50%"><img src="docs/05-pos-login.jpg" alt="The POS staff login"><br><sub>The till, installed as a PWA on the shop tablet</sub></td>
+</tr>
+</table>
 
 The till, stock and wallet live in a separate repo (`kwamquhe-pos`). This one is the storefront:
 prices, brands, where to find us, and the Mnquhe Card.
